@@ -38,9 +38,9 @@ CHAPTER I
 
 _(The first few pages of the account of his travels by Mr Lemuel
 Gulliver, junior, have unfortunately been damaged by fire and are for
-the most part illegible. They contain reference to a sea-fog and to a
-shipwreck. He appears to have escaped by swimming, and his record of the
-number of days he spent in the water and the distance covered verges
+the most part illegible. They contain reference to a sea-fog and to
+a shipwreck. He appears to have escaped by swimming, and his record of
+the number of days he spent in the water and the distance covered verges
 upon the incredible. His statement that he lived principally upon the
 raw flesh of those sharks which made the mistake of attacking him will
 also be accepted with reserve by those who remember the latitude in
@@ -6344,4 +6344,4 @@ she had lost her pearl necklace.
 She had heard something moving in her bedroom, and on entering it a man
 had jumped out through the window. All she could say for certain was
 that he was clean-shaven, and had close-cropped black hair.
-
+
